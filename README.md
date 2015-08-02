@@ -5,4 +5,9 @@ This python script will scan a specified path for malware. It does this by hashi
 
 The malware list file is a collection of JSON objects.  Each JSON object has a SHA256 hash value, and the name of the Malware (if known).
 
-It is possible to create your own malware list file (or add entries to the one provided) to scan more/different malware.
+It is possible to create your own malware list file (or add entries to the one provided) to scan for more/different malware.
+
+## Usage
+    $ s4mh /path/to/scan <optional malware list file path>
+    
+
