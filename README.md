@@ -8,6 +8,6 @@ The malware list file is a collection of JSON objects.  Each JSON object has a S
 It is possible to create your own malware list file (or add entries to the one provided) to scan for more/different malware.
 
 ## Usage
-    $ s4mh /path/to/scan <optional malware list file path>
+    $ python s4mh /path/to/scan <optional malware list file path>
     
 
