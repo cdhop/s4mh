@@ -10,4 +10,8 @@ It is possible to create your own malware list file (or add entries to the one p
 ## Usage
     $ python s4mh /path/to/scan <optional malware list file path>
     
+## Online malware hash service
 
+You can use Metascan online to check a file to see if it has been reported/is known to be malicious.
+
+[Metascan Online](https://www.metascan-online.com/)
